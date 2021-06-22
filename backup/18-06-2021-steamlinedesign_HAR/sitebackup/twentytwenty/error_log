@@ -1,0 +1,36 @@
+[09-Feb-2021 06:12:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$price' (T_VARIABLE) in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php on line 8
+[09-Feb-2021 06:13:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php on line 8
+[09-Feb-2021 06:13:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php on line 8
+[09-Feb-2021 06:13:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php on line 8
+[09-Feb-2021 06:15:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php on line 8
+[09-Feb-2021 06:16:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php:295
+Stack trace:
+#0 /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php(2): include()
+#1 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php on line 295
+[09-Feb-2021 06:16:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php:295
+Stack trace:
+#0 /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php(2): include()
+#1 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php on line 295
+[09-Feb-2021 06:18:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php:307
+Stack trace:
+#0 /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/common_ajax.php(2): include()
+#1 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php on line 307
+[09-Feb-2021 06:19:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php:295
+Stack trace:
+#0 {main}
+  thrown in /home1/steamline/public_html/HAR/wp-content/themes/twentytwenty/functions.php on line 295
