@@ -229,8 +229,8 @@ $(".htclosebtn").click(function(){
 
 /*header search responsive*/
 $(".mobserachicon").click(function() {
-   $(".search-box").toggle();
-   $("input[type='text']").focus();
+   $(".search-box").slideToggle();
+   $(".search-box input[type='text']").focus();
  });
   
 });
